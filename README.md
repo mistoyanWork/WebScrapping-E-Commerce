@@ -1,4 +1,3 @@
-[[_TOC_]]
 # Introducción
 Bienvenidos a la guía técnica del "Sitio de Comercio Electrónico de Mantenimiento Cero". Este proyecto es un sitio web de comercio electrónico conceptual que automatiza el raspado de productos de plataformas de comercio electrónico importantes. Está diseñado para apoyar a los negocios de dropshipping mostrando productos que no poseen, facilitando su expansión del catálogo de productos sin esfuerzo manual. Esta solución consta de dos componentes principales: `scrapping.py` y `logic.py`, ambos parte del sistema de backend. La aplicación `scrapping.py` se encarga del raspado de productos, proporcionando APIs para varios tipos de productos, mientras que `logic.py` gestiona operaciones relacionadas con los usuarios, como inicio/cierre de sesión, registro, compras, etc. Todos los datos se almacenan y gestionan en una base de datos SQL Azure.
 
